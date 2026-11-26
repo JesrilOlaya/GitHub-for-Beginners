@@ -5,4 +5,9 @@ GitHub for Beginners will be used to help other beginner programmers about how G
 
 # Git Best Practices
 
+use pull
+use push
+btw 
+
 # Helpful Learning Resources
+
